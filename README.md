@@ -1,3 +1,4 @@
 # Calculator
-This is a calculator
-Author - Diksha panse
+This is a calculator.
+<br>
+Author - Diksha panse.
